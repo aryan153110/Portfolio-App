@@ -2,3 +2,4 @@ streamlit_option_menu
 folium
 streamlit_extras
 streamlit_folium
+base 64
