@@ -1,4 +1,3 @@
-streamlit
 streamlit_option_menu 
 folium
-streamlit_extras.let_it_rain
+streamlit_extras
