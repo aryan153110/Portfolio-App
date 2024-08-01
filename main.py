@@ -12,7 +12,7 @@ def get_img_as_base64(file):
 
 st.set_page_config(page_title="PORTFOLIO", page_icon='smiley', layout="wide")
 
-img = get_img_as_base64("image.jpg")
+
 
 page_bg_img = f"""
 <style>
