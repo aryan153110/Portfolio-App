@@ -1,0 +1,6 @@
+base64
+streamlit
+streamlit_option_menu 
+about, contact, home
+folium
+streamlit_extras.let_it_rain
